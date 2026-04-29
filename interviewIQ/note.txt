@@ -1,0 +1,6 @@
+
+type:"commonjs" --- asel tar aplya la  Reaquires as lihav lagat
+
+     ...> "module" ---- kel tar import lihav lagat 
+
+npm i express dotenv mongoose nodemon cors cookie-parser jsonwebtoken
